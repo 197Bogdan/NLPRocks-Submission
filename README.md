@@ -1,6 +1,6 @@
-
+##### Link hackathon: https://www.nitronlp.rocks/home
 ### 	Abordarea problemei:
-Am plecat de la modelul oferit de spacy pentru lb romana<br>
+Am plecat de la modelul oferit de spacy pentru limba romana<br>
 Am incercat multe variatii pentru impartirea datelor de train/validation (50-50, 66-33, 75-25, 90-10, 95-5, 99-1)<br>
 Am incercat sa transformam tot input ul in lowercase <br>
 Am incercat sa parcurgem train data-ul in ordine random<br>
@@ -36,4 +36,10 @@ create_submission.py va genera un fisier .csv cu formatul corespunzator pentru u
 Numele modelului folosit se afla in variabila model_name, iar numele fisierului de output in filename<br>
 
 check_efficiency.py verifica acuratetea pe un set de date de train ale modelului ales<br>
+
+### Echipa:<br>
+https://github.com/SabauEduard <br>
+https://github.com/197Bogdan<br>
+https://github.com/LiciuStefan<br>
+https://github.com/mateipopescu1510<br>
 
